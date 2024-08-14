@@ -1,0 +1,24 @@
+
+account summary
+other deposits
+withdraw
+IFSC CODE
+MICR CODE
+CRN
+scheme name
+joint holder
+nominee
+average balance maintained
+withdrawal
+posting date
+cashback checking
+eff date
+start balance
+transfer recived
+last received
+cost of transfer
+transactions
+insurance details
+benefit type
+capital
+liabilities

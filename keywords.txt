@@ -1,0 +1,152 @@
+Banking:
+scheme code
+customer id
+currency code
+lien amount
+A/C
+nomination details
+transaction date
+tran date
+value date
+transaction details
+chq. no.
+amount
+balance
+branch name
+account name
+account id
+bank id
+branch id
+statement date
+account details
+tran id
+txn date
+cheque no
+description
+UTR No
+customer name
+trans date
+opening balance
+debit
+credit
+balance remarks
+closing balance
+bank account statement
+money out
+money in
+sort code
+current account
+saving account
+paid in
+paid out
+new balance
+transaction history
+particulars
+total balance
+account ttile
+account summary
+other deposits
+withdraw
+IFSC CODE
+MICR CODE
+CRN
+scheme name
+joint holder
+nominee
+average balance maintained
+withdrawal
+posting date
+cashback checking
+eff date
+start balance
+transfer recived
+last received
+cost of transfer
+transactions
+account information
+ending balance
+transaction remarks
+transaction type
+card number
+account limit
+payments
+adjustments
+net purchases
+cash advance
+fees
+other charges
+newaccount balance
+overdraft
+returned
+primary cheking
+instances
+checks paid
+atm
+electronic withdrawals
+
+General:
+personal details
+period
+insurance details
+benefit type
+capital
+liabilities
+assets
+investment
+bills
+issue date
+tax invoice
+VAT registration number
+company name
+
+Other:
+apple
+bananacherry
+dog
+elephant
+flower
+guitar
+honey
+ice cream
+jacket
+kite
+lemon
+mountain
+notebook
+ocean
+penciquilt
+rainbow
+sand
+tiger
+umbrella
+violin
+whale
+xylophone
+yacht
+zebra
+balloon
+candle
+dragon
+eagle
+forest
+globe
+house
+island
+jungle
+kangaroo
+lantern
+moon
+nest
+owl
+pyramid
+quartz
+river
+star
+treasure
+unicorn
+vase
+waterfall
+yoga
+zeppelin
+
+
