@@ -1,4 +1,4 @@
-### Sensitive Document Classification in Banking Sector
+# Sensitive Document Classification in Banking Sector
 This project leverages Natural Language Processing (NLP) and Machine Learning to identify and classify sensitive documents in the banking sector, enhancing document security and compliance. 
 By employing the Random Forest algorithm, we achieved an approximate accuracy of 75% in distinguishing sensitive documents from non-sensitive ones. This solution aids in ensuring that sensitive data remains protected, contributing to improved compliance and security measures.
 
